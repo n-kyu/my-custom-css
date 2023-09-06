@@ -99,3 +99,9 @@ input::-webkit-inner-spin-button {
   margin: 0;
 }
 /* default styles */
+/* custom styles */
+.container {
+  max-width: 1440px;
+  margin: auto;
+  padding: 0 15px;
+}
